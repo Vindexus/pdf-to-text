@@ -1,0 +1,5 @@
+source-files/*
+converted-files/*
+removals.txt
+.idea
+node_modules

@@ -1,0 +1,16 @@
+{
+  "name": "pdf-to-text",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  },
+  "scripts": {
+    "convert": "tsx convert.ts"
+  },
+  "dependencies": {
+    "@types/node": "^20.12.7",
+    "tsx": "^4.7.3"
+  }
+}
